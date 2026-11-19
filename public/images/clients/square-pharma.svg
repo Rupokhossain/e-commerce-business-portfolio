@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <g transform="translate(15, 12)">
+    <!-- Square Monogram -->
+    <rect x="4" y="6" width="34" height="34" rx="4" fill="#B91C1C"/>
+    <rect x="13" y="15" width="16" height="16" rx="2" fill="#FFFFFF"/>
+    
+    <!-- Wordmark -->
+    <text x="48" y="27" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="21" fill="#B91C1C" letter-spacing="1">SQUARE</text>
+    <text x="49" y="40" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="8.5" fill="#4B5563" letter-spacing="1.5">PHARMACEUTICALS PLC</text>
+  </g>
+</svg>

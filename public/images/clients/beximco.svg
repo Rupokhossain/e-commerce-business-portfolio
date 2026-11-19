@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <g transform="translate(15, 12)">
+    <!-- Beximco Hexagon Icon -->
+    <path d="M20 6 L35 14 L35 32 L20 40 L5 32 L5 14 Z" fill="#0284C7"/>
+    <path d="M20 12 L29 17 L29 28 L20 33 L11 28 L11 17 Z" fill="#FFFFFF"/>
+    <circle cx="20" cy="23" r="4.5" fill="#0F172A"/>
+
+    <!-- Wordmark -->
+    <text x="46" y="27" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="22" fill="#0F172A" letter-spacing="2">BEXIMCO</text>
+    <text x="47" y="40" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="8.5" fill="#0284C7" letter-spacing="1.5">INDUSTRIAL PARK</text>
+  </g>
+</svg>

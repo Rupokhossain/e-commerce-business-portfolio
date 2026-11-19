@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <g transform="translate(15, 12)">
+    <!-- Apex Triangle / Diamond Mark -->
+    <path d="M12 42 L24 6 L36 42 Z" fill="#DC2626"/>
+    <path d="M19 42 L24 22 L29 42 Z" fill="#FFFFFF"/>
+    <circle cx="24" cy="18" r="4" fill="#100063"/>
+    
+    <!-- Wordmark -->
+    <text x="48" y="28" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="24" fill="#100063" letter-spacing="1.5">APEX</text>
+    <text x="49" y="41" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="8.5" fill="#DC2626" letter-spacing="2">EXPORT KNITWEAR</text>
+  </g>
+</svg>

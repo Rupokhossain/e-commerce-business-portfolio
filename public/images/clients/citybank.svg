@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <g transform="translate(15, 12)">
+    <!-- Red Square & White C -->
+    <rect x="5" y="7" width="32" height="32" rx="5" fill="#E11D48"/>
+    <path d="M27 16 C20 16, 15 20, 15 23 C15 26, 20 30, 27 30" stroke="#FFFFFF" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    
+    <!-- Wordmark -->
+    <text x="46" y="27" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="20" fill="#111827" letter-spacing="1">CITY BANK</text>
+    <text x="47" y="40" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="8.5" fill="#E11D48" letter-spacing="1.5">CORPORATE CAMPUS</text>
+  </g>
+</svg>

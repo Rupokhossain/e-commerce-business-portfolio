@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <g transform="translate(15, 12)">
+    <!-- Akij Flame / Crown Mark -->
+    <path d="M7 32 C7 20, 20 8, 20 8 C20 8, 33 20, 33 32 C33 40, 26 44, 20 44 C14 44, 7 40, 7 32 Z" fill="#DC2626"/>
+    <circle cx="20" cy="30" r="5" fill="#FEF08A"/>
+    
+    <!-- Wordmark -->
+    <text x="46" y="27" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="20" fill="#18181B" letter-spacing="1">AKIJ BASHIR</text>
+    <text x="47" y="40" font-family="'Poppins', 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="8.5" fill="#DC2626" letter-spacing="1.5">INDUSTRIAL GROUP</text>
+  </g>
+</svg>
